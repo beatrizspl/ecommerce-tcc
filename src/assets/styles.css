@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+:root {
+  --primary-color: #8a4fff;
+  --secondary-color: #4a5568;
+  --hover-effect: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  --out-of-stock-color: #333;
+}
+
+body {
+  font-family: 'Poiret One', 'Brush Script MT', cursive, sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  background: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+  letter-spacing: 1px;
+}
